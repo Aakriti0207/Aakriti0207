@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Aakriti!</h1>
 
 <p align="center">
-🎓 First-year B.Tech CSE student at BPIT, IPU <br>
+🎓 B.Tech CSE student at BPIT, IPU <br>
 🌱 Learning C++, DSA, and Web Dev <br>
 ✨ Documenting my SDE Sheet + Web Dev progress on GitHub <br>
 📚 Theatre kid | NCC cadet | Canva poster ninja 🎨
