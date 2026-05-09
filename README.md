@@ -14,6 +14,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Aakriti0207&color=a78bfa&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakriti-arya-040917225/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/aakritiarya_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=flat-square&logo=Vercel&logoColor=white)](https://aakriti-arya-portfolio.vercel.app/)
 
 </div>
 
