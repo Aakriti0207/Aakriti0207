@@ -120,7 +120,7 @@ public:
 
 [![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakriti-arya-040917225/)
 [![Instagram](https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aakritiarya_/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon!-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Lets_Connect!-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://aakriti-arya-portfolio.vercel.app/)
 
 </div>
 
