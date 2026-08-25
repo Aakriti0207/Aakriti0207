@@ -30,7 +30,7 @@ class Aakriti {
 public:
     string name     = "Aakriti Arya";
     string college  = "BPIT, IPU — Delhi";
-    string year     = "2nd Year B.Tech CSE";
+    string year     = "3rd Year B.Tech CSE";
     string location = "📍 Delhi, India";
 
     vector<string> currently_learning = {
